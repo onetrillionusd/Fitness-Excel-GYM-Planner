@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Excel outputs
+*.xlsx
+
+# Virtual environments
+.venv/
+venv/
